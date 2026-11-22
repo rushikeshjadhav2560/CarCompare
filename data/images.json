@@ -1,0 +1,978 @@
+{
+  "maruti-suzuki-s-presso": {
+    "path": "static/images/cars/maruti-suzuki-s-presso.jpg",
+    "file": "Suzuki_S-Presso_\u2013_Dubai_(cropped).jpg",
+    "page": "Suzuki S-Presso",
+    "author": "Abdulla Al Muhairi",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_S-Presso_%E2%80%93_Dubai_(cropped).jpg"
+  },
+  "maruti-suzuki-celerio": {
+    "path": "static/images/cars/maruti-suzuki-celerio.png",
+    "file": "2021_Maruti_Suzuki_Celerio_ZXi_(India)_front_view_02.png",
+    "page": "Suzuki Celerio",
+    "author": "Exhibit Magazine",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Maruti_Suzuki_Celerio_ZXi_(India)_front_view_02.png"
+  },
+  "maruti-suzuki-wagonr": {
+    "path": "static/images/cars/maruti-suzuki-wagonr.jpg",
+    "file": "2018_Suzuki_Karimun_Wagon_R_GL_(front).jpg",
+    "page": "Maruti Suzuki Wagon R",
+    "author": "Alex Neman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Suzuki_Karimun_Wagon_R_GL_(front).jpg"
+  },
+  "maruti-suzuki-ciaz": {
+    "path": "static/images/cars/maruti-suzuki-ciaz.jpg",
+    "file": "Suzuki_Ciaz_1.4_GL_2016_1_(Chile).jpg",
+    "page": "Suzuki Ciaz",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Ciaz_1.4_GL_2016_1_(Chile).jpg"
+  },
+  "maruti-suzuki-jimny": {
+    "path": "static/images/cars/maruti-suzuki-jimny.jpg",
+    "file": "2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg",
+    "page": "Suzuki Jimny",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg"
+  },
+  "citroen-basalt": {
+    "path": "static/images/cars/citroen-basalt.jpg",
+    "file": "Citroen_Basalt_Turbo_200_Shine_2025.jpg",
+    "page": "Citro\u00ebn Basalt",
+    "author": "RL GNZLZ",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Citroen_Basalt_Turbo_200_Shine_2025.jpg"
+  },
+  "jeep-compass": {
+    "path": "static/images/cars/jeep-compass.jpg",
+    "file": "2019_Jeep_Compass_Limited_2.4L,_front_7.6.19.jpg",
+    "page": "Jeep Compass",
+    "author": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Jeep_Compass_Limited_2.4L,_front_7.6.19.jpg"
+  },
+  "jeep-meridian": {
+    "path": "static/images/cars/jeep-meridian.jpg",
+    "file": "2023_Jeep_Commander_Overland_T270_(Colombia)_front_view.jpg",
+    "page": "Jeep Commander (2022)",
+    "author": "Autosdeprimera",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Jeep_Commander_Overland_T270_(Colombia)_front_view.jpg"
+  },
+  "maruti-suzuki-swift": {
+    "path": "static/images/cars/maruti-suzuki-swift.jpg",
+    "file": "Suzuki_Swift_(2024)_hybrid_DSC_6076.jpg",
+    "page": "Suzuki Swift",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Swift_(2024)_hybrid_DSC_6076.jpg"
+  },
+  "maruti-suzuki-dzire": {
+    "path": "static/images/cars/maruti-suzuki-dzire.jpg",
+    "file": "Suzuki_Dzire_II_1.2_GLX_Hybrid_Arctic_White_Pearl.jpg",
+    "page": "Suzuki Dzire",
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Dzire_II_1.2_GLX_Hybrid_Arctic_White_Pearl.jpg"
+  },
+  "maruti-suzuki-ignis": {
+    "path": "static/images/cars/maruti-suzuki-ignis.jpg",
+    "file": "2018_Suzuki_Ignis_SZ5_SHVS_Allgrip_1.2_Front.jpg",
+    "page": "Suzuki Ignis",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Suzuki_Ignis_SZ5_SHVS_Allgrip_1.2_Front.jpg"
+  },
+  "maruti-suzuki-fronx": {
+    "path": "static/images/cars/maruti-suzuki-fronx.jpg",
+    "file": "2024_Suzuki_Fronx.jpg",
+    "page": "Suzuki Fronx",
+    "author": "TTTNIS",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Suzuki_Fronx.jpg"
+  },
+  "maruti-suzuki-brezza": {
+    "path": "static/images/cars/maruti-suzuki-brezza.png",
+    "file": "2022_Maruti_Suzuki_Brezza_ZXi+_(India)_front_view_03.png",
+    "page": "Suzuki Brezza",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Maruti_Suzuki_Brezza_ZXi%2B_(India)_front_view_03.png"
+  },
+  "maruti-suzuki-ertiga": {
+    "path": "static/images/cars/maruti-suzuki-ertiga.jpg",
+    "file": "Suzuki_Ertiga_NC_FL_1.5_GLX_Hybrid_Snow_White_Pearl.jpg",
+    "page": "Suzuki Ertiga",
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Ertiga_NC_FL_1.5_GLX_Hybrid_Snow_White_Pearl.jpg"
+  },
+  "maruti-suzuki-eeco": {
+    "path": "static/images/cars/maruti-suzuki-eeco.jpg",
+    "file": "White_Maruti_Eeco_01.jpg",
+    "page": "Suzuki Eeco",
+    "author": "Bams siblings",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Maruti_Eeco_01.jpg"
+  },
+  "maruti-suzuki-e-vitara": {
+    "path": "static/images/cars/maruti-suzuki-e-vitara.jpg",
+    "file": "Suzuki_e_Vitara_in_Hamamatsu_Sta_front.jpg",
+    "page": "Suzuki e Vitara",
+    "author": "IXTA9839",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_e_Vitara_in_Hamamatsu_Sta_front.jpg"
+  },
+  "hyundai-i20": {
+    "path": "static/images/cars/hyundai-i20.jpg",
+    "file": "Hyundai_i20_(III,_Facelift)_\u2013_f_11102025.jpg",
+    "page": "Hyundai i20",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyundai_i20_(III,_Facelift)_%E2%80%93_f_11102025.jpg"
+  },
+  "hyundai-i20-n-line": {
+    "path": "static/images/cars/hyundai-i20-n-line.jpg",
+    "file": "Hyundai_i20_(III,_Facelift)_\u2013_f_11102025.jpg",
+    "page": "Hyundai i20",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyundai_i20_(III,_Facelift)_%E2%80%93_f_11102025.jpg"
+  },
+  "hyundai-aura": {
+    "path": "static/images/cars/hyundai-aura.jpg",
+    "file": "Hyundai_Grand_i10_Sedan_2022_(53703857804)_(cropped).jpg",
+    "page": "Hyundai Aura",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_Sedan_2022_(53703857804)_(cropped).jpg"
+  },
+  "hyundai-exter": {
+    "path": "static/images/cars/hyundai-exter.png",
+    "file": "2023_Hyundai_Exter_SX_(O).png",
+    "page": "Hyundai Exter",
+    "author": "Connect2Sam",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Hyundai_Exter_SX_(O).png"
+  },
+  "hyundai-venue": {
+    "path": "static/images/cars/hyundai-venue.jpg",
+    "file": "2022_Hyundai_Venue_Preferred_in_Polar_White,_Front_Right,_09-12-2023.jpg",
+    "page": "Hyundai Venue",
+    "author": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Venue_Preferred_in_Polar_White,_Front_Right,_09-12-2023.jpg"
+  },
+  "hyundai-venue-n-line": {
+    "path": "static/images/cars/hyundai-venue-n-line.jpg",
+    "file": "2022_Hyundai_Venue_Preferred_in_Polar_White,_Front_Right,_09-12-2023.jpg",
+    "page": "Hyundai Venue",
+    "author": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Venue_Preferred_in_Polar_White,_Front_Right,_09-12-2023.jpg"
+  },
+  "hyundai-creta": {
+    "path": "static/images/cars/hyundai-creta.png",
+    "file": "2024_Hyundai_Creta_1.5_MPi_SX(O)_(India)_front_view.png",
+    "page": "Hyundai Creta",
+    "author": "CARS WORLD Kannada",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Hyundai_Creta_1.5_MPi_SX(O)_(India)_front_view.png"
+  },
+  "hyundai-creta-n-line": {
+    "path": "static/images/cars/hyundai-creta-n-line.png",
+    "file": "2024_Hyundai_Creta_1.5_MPi_SX(O)_(India)_front_view.png",
+    "page": "Hyundai Creta",
+    "author": "CARS WORLD Kannada",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Hyundai_Creta_1.5_MPi_SX(O)_(India)_front_view.png"
+  },
+  "hyundai-creta-electric": {
+    "path": "static/images/cars/hyundai-creta-electric.png",
+    "file": "2024_Hyundai_Creta_1.5_MPi_SX(O)_(India)_front_view.png",
+    "page": "Hyundai Creta",
+    "author": "CARS WORLD Kannada",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Hyundai_Creta_1.5_MPi_SX(O)_(India)_front_view.png"
+  },
+  "hyundai-alcazar": {
+    "path": "static/images/cars/hyundai-alcazar.png",
+    "file": "2021_Hyundai_Alcazar_2.0_Signature_(India)_front_view.png",
+    "page": "Hyundai Alcazar",
+    "author": "Hindi DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Alcazar_2.0_Signature_(India)_front_view.png"
+  },
+  "hyundai-tucson": {
+    "path": "static/images/cars/hyundai-tucson.jpg",
+    "file": "Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_(IV)_\u2013_f_05072025.jpg",
+    "page": "Hyundai Tucson",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_(IV)_%E2%80%93_f_05072025.jpg"
+  },
+  "hyundai-ioniq-5": {
+    "path": "static/images/cars/hyundai-ioniq-5.jpg",
+    "file": "Hyundai_Ioniq_5_AWD_Techniq-Paket_\u2013_f_31122024.jpg",
+    "page": "Hyundai Ioniq 5",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg"
+  },
+  "tata-tiago": {
+    "path": "static/images/cars/tata-tiago.jpg",
+    "file": "2022_Tata_Tiago_XZA+_front_20230512.jpg",
+    "page": "Tata Tiago",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Tata_Tiago_XZA%2B_front_20230512.jpg"
+  },
+  "tata-tiago-ev": {
+    "path": "static/images/cars/tata-tiago-ev.png",
+    "file": "2022_Tata_Tiago_EV_IB_XZ+_Tech_LR_front_view.png",
+    "page": "Tata Tiago EV",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Tata_Tiago_EV_IB_XZ%2B_Tech_LR_front_view.png"
+  },
+  "tata-tigor": {
+    "path": "static/images/cars/tata-tigor.jpg",
+    "file": "TATA_Tigor_at_Shillong_Peak_View_(cropped).jpg",
+    "page": "Tata Tigor",
+    "author": "Prabhat114",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TATA_Tigor_at_Shillong_Peak_View_(cropped).jpg"
+  },
+  "tata-tigor-ev": {
+    "path": "static/images/cars/tata-tigor-ev.jpg",
+    "file": "TATA_Tigor_at_Shillong_Peak_View_(cropped).jpg",
+    "page": "Tata Tigor",
+    "author": "Prabhat114",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TATA_Tigor_at_Shillong_Peak_View_(cropped).jpg"
+  },
+  "tata-altroz": {
+    "path": "static/images/cars/tata-altroz.jpg",
+    "file": "Tata_Altroz_front_20230617.jpg",
+    "page": "Tata Altroz",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tata_Altroz_front_20230617.jpg"
+  },
+  "tata-punch": {
+    "path": "static/images/cars/tata-punch.png",
+    "file": "2021_Tata_Punch_Creative_(India)_front_view_01.png",
+    "page": "Tata Punch",
+    "author": "Athira Murali",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Tata_Punch_Creative_(India)_front_view_01.png"
+  },
+  "tata-punch-ev": {
+    "path": "static/images/cars/tata-punch-ev.png",
+    "file": "2021_Tata_Punch_Creative_(India)_front_view_01.png",
+    "page": "Tata Punch",
+    "author": "Athira Murali",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Tata_Punch_Creative_(India)_front_view_01.png"
+  },
+  "tata-nexon": {
+    "path": "static/images/cars/tata-nexon.jpg",
+    "file": "Tata_Nexon_Blue_Dual_Tone.jpg",
+    "page": "Tata Nexon",
+    "author": "Keithkberger",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tata_Nexon_Blue_Dual_Tone.jpg"
+  },
+  "tata-nexon-ev": {
+    "path": "static/images/cars/tata-nexon-ev.jpg",
+    "file": "Tata_Nexon_Blue_Dual_Tone.jpg",
+    "page": "Tata Nexon",
+    "author": "Keithkberger",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tata_Nexon_Blue_Dual_Tone.jpg"
+  },
+  "tata-curvv": {
+    "path": "static/images/cars/tata-curvv.png",
+    "file": "2025_Tata_Curvv_Creative+_S_Petrol_(India)_front_view.png",
+    "page": "Tata Curvv",
+    "author": "Manish Bhardwaj",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Tata_Curvv_Creative%2B_S_Petrol_(India)_front_view.png"
+  },
+  "tata-curvv-ev": {
+    "path": "static/images/cars/tata-curvv-ev.png",
+    "file": "2025_Tata_Curvv_Creative+_S_Petrol_(India)_front_view.png",
+    "page": "Tata Curvv",
+    "author": "Manish Bhardwaj",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Tata_Curvv_Creative%2B_S_Petrol_(India)_front_view.png"
+  },
+  "tata-harrier": {
+    "path": "static/images/cars/tata-harrier.jpg",
+    "file": "Tata_Buzzard_Sport,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0651).jpg",
+    "page": "Tata Harrier",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tata_Buzzard_Sport,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0651).jpg"
+  },
+  "tata-harrier-ev": {
+    "path": "static/images/cars/tata-harrier-ev.jpg",
+    "file": "Tata_Buzzard_Sport,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0651).jpg",
+    "page": "Tata Harrier",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tata_Buzzard_Sport,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0651).jpg"
+  },
+  "mahindra-xuv-3xo": {
+    "path": "static/images/cars/mahindra-xuv-3xo.jpg",
+    "file": "2025_Mahindra_XUV_3XO_AX7L_front.jpg",
+    "page": "Mahindra XUV 3XO",
+    "author": "LuvsMG481",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Mahindra_XUV_3XO_AX7L_front.jpg"
+  },
+  "maruti-suzuki-baleno": {
+    "path": "static/images/cars/maruti-suzuki-baleno.jpg",
+    "file": "2022_Maruti_Suzuki_Baleno_Alpha_(India)_front_view.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Milind Kwatra",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Maruti_Suzuki_Baleno_Alpha_(India)_front_view.jpg"
+  },
+  "maruti-suzuki-grand-vitara": {
+    "path": "static/images/cars/maruti-suzuki-grand-vitara.jpg",
+    "file": "2022_Maruti_Suzuki_Grand_Vitara_Zeta_Smart_Hybrid_(India)_front_view.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Siddharth Antre",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Maruti_Suzuki_Grand_Vitara_Zeta_Smart_Hybrid_(India)_front_view.jpg"
+  },
+  "maruti-suzuki-xl6": {
+    "path": "static/images/cars/maruti-suzuki-xl6.jpg",
+    "file": "Maruti_Suzuki_XL6_(front).jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Agratsa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maruti_Suzuki_XL6_(front).jpg"
+  },
+  "hyundai-grand-i10-nios": {
+    "path": "static/images/cars/hyundai-grand-i10-nios.jpg",
+    "file": "2021_Hyundai_Grand_i10_Nios_1.0AT_Standard_red_rear_view_in_Brunei.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "AIMHO'S REBELLION 8490s",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Grand_i10_Nios_1.0AT_Standard_red_rear_view_in_Brunei.jpg"
+  },
+  "mahindra-bolero": {
+    "path": "static/images/cars/mahindra-bolero.jpg",
+    "file": "Mahindra_Bolero_ZLX.jpg",
+    "page": "Mahindra Bolero",
+    "author": "RaNK001",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahindra_Bolero_ZLX.jpg"
+  },
+  "mahindra-thar-roxx": {
+    "path": "static/images/cars/mahindra-thar-roxx.jpg",
+    "file": "Mahindra_Thar_ROXX_on_dirt.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "The Drivers Hub",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahindra_Thar_ROXX_on_dirt.jpg"
+  },
+  "mahindra-scorpio-classic": {
+    "path": "static/images/cars/mahindra-scorpio-classic.jpg",
+    "file": "Mahindra_Scorpio_GLX_2.6_m-Hawk_2011_(36756517492).jpg",
+    "page": "Mahindra Scorpio",
+    "author": "RL GNZLZ from Chile",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahindra_Scorpio_GLX_2.6_m-Hawk_2011_(36756517492).jpg"
+  },
+  "mahindra-be-6": {
+    "path": "static/images/cars/mahindra-be-6.jpg",
+    "file": "Mahindra_BE6_pic_1_(cropped).jpg",
+    "page": "Mahindra BE 6",
+    "author": "Cppfront",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahindra_BE6_pic_1_(cropped).jpg"
+  },
+  "mahindra-xuv400-ev": {
+    "path": "static/images/cars/mahindra-xuv400-ev.jpg",
+    "file": "2023_Mahindra_XUV_400_EL_EV_,_Ashiana_Brahmananda,_Jamshedpur,_Jharkhand,_India_(_Ank_Kumar,_Infosys_Limited_)_01.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Mahindra_XUV_400_EL_EV_,_Ashiana_Brahmananda,_Jamshedpur,_Jharkhand,_India_(_Ank_Kumar,_Infosys_Limited_)_01.jpg"
+  },
+  "mahindra-xuv700": {
+    "path": "static/images/cars/mahindra-xuv700.png",
+    "file": "2021_Mahindra_XUV700_2.2_AX7_(India)_front_view.png",
+    "page": "Mahindra XUV700",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Mahindra_XUV700_2.2_AX7_(India)_front_view.png"
+  },
+  "mahindra-xev-9e": {
+    "path": "static/images/cars/mahindra-xev-9e.jpg",
+    "file": "Mahindra_XEV_9E.jpg",
+    "page": "Mahindra XEV 9e",
+    "author": "Cppfront",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahindra_XEV_9E.jpg"
+  },
+  "mahindra-marazzo": {
+    "path": "static/images/cars/mahindra-marazzo.jpg",
+    "file": "Mahindra_Marazzo_MPV_SEP_18_(1).jpg",
+    "page": "Mahindra Marazzo",
+    "author": "SnapMeUp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahindra_Marazzo_MPV_SEP_18_(1).jpg"
+  },
+  "kia-sonet": {
+    "path": "static/images/cars/kia-sonet.jpg",
+    "file": "2021_Kia_Sonet_1.5_Premiere_(Indonesia)_front_view_03.jpg",
+    "page": "Kia Sonet",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Kia_Sonet_1.5_Premiere_(Indonesia)_front_view_03.jpg"
+  },
+  "kia-carnival": {
+    "path": "static/images/cars/kia-carnival.jpg",
+    "file": "2025_Kia_Carnival_Hybrid_EX,_front_right,_10-12-2025.jpg",
+    "page": "Kia Carnival",
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Kia_Carnival_Hybrid_EX,_front_right,_10-12-2025.jpg"
+  },
+  "kia-seltos": {
+    "path": "static/images/cars/kia-seltos.jpg",
+    "file": "Kia_Seltos_SP2_PE_Snow_White_Pearl_(17)_(cropped).jpg",
+    "page": "Kia Seltos",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kia_Seltos_SP2_PE_Snow_White_Pearl_(17)_(cropped).jpg"
+  },
+  "kia-carens": {
+    "path": "static/images/cars/kia-carens.jpg",
+    "file": "Kia_Carens_2024_Model.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Ganesh Mohan T",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kia_Carens_2024_Model.jpg"
+  },
+  "kia-syros": {
+    "path": "static/images/cars/kia-syros.jpg",
+    "file": "2025_Kia_Syros_1.5_HTX+_(O)_(India)_front_view_01.jpg",
+    "page": "Kia Syros",
+    "author": "The Drivers Hub",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Kia_Syros_1.5_HTX%2B_(O)_(India)_front_view_01.jpg"
+  },
+  "honda-amaze": {
+    "path": "static/images/cars/honda-amaze.png",
+    "file": "2024_Honda_Amaze_ZX.png",
+    "page": "Wikimedia Commons search",
+    "author": "Ashwin's Garage",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Honda_Amaze_ZX.png"
+  },
+  "kia-ev6": {
+    "path": "static/images/cars/kia-ev6.jpg",
+    "file": "2021_Kia_EV6_GT-Line_S.jpg",
+    "page": "Kia EV6",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Kia_EV6_GT-Line_S.jpg"
+  },
+  "kia-ev9": {
+    "path": "static/images/cars/kia-ev9.jpg",
+    "file": "Kia_EV9_1X7A2472.jpg",
+    "page": "Kia EV9",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kia_EV9_1X7A2472.jpg"
+  },
+  "honda-city": {
+    "path": "static/images/cars/honda-city.jpg",
+    "file": "Honda_City_2020.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Thitichai R",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Honda_City_2020.jpg"
+  },
+  "honda-city-e-hev": {
+    "path": "static/images/cars/honda-city-e-hev.jpg",
+    "file": "Honda_City_1.5_i-VTEC_V_(VIII,_Facelift)_\u2013_f_22032025.jpg",
+    "page": "Honda City",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Honda_City_1.5_i-VTEC_V_(VIII,_Facelift)_%E2%80%93_f_22032025.jpg"
+  },
+  "toyota-glanza": {
+    "path": "static/images/cars/toyota-glanza.jpg",
+    "file": "Toyota_Glanza_(front).jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Agratsa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Glanza_(front).jpg"
+  },
+  "toyota-urban-cruiser-taisor": {
+    "path": "static/images/cars/toyota-urban-cruiser-taisor.jpg",
+    "file": "Front_view_of_Toyota_Urban_Cruiser_Taisor.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Abhiraj Mohan 31",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Toyota_Urban_Cruiser_Taisor.jpg"
+  },
+  "toyota-urban-cruiser-hyryder": {
+    "path": "static/images/cars/toyota-urban-cruiser-hyryder.jpg",
+    "file": "Toyota_Urban_Cruiser_Hyryder,_Goa,_India.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Tannerdhi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Urban_Cruiser_Hyryder,_Goa,_India.jpg"
+  },
+  "toyota-innova-crysta": {
+    "path": "static/images/cars/toyota-innova-crysta.jpg",
+    "file": "Toyota_Innova_Crysta_2.4_Z_side.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Premnath Kudva",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Innova_Crysta_2.4_Z_side.jpg"
+  },
+  "toyota-fortuner": {
+    "path": "static/images/cars/toyota-fortuner.jpg",
+    "file": "Toyota_Fortuner_4x4_Legender_(LTD)_2022.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Captainmorlypogi1959",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_4x4_Legender_(LTD)_2022.jpg"
+  },
+  "toyota-fortuner-legender": {
+    "path": "static/images/cars/toyota-fortuner-legender.jpg",
+    "file": "2015_Toyota_Fortuner_(New_Zealand).jpg",
+    "page": "Toyota Fortuner",
+    "author": "NZ Car Freak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Toyota_Fortuner_(New_Zealand).jpg"
+  },
+  "toyota-hilux": {
+    "path": "static/images/cars/toyota-hilux.jpg",
+    "file": "2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg",
+    "page": "Toyota Hilux",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg"
+  },
+  "toyota-camry": {
+    "path": "static/images/cars/toyota-camry.jpg",
+    "file": "2018_Toyota_Camry_(ASV70R)_Ascent_sedan_(2018-08-27)_01.jpg",
+    "page": "Toyota Camry",
+    "author": "EurovisionNim",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_(ASV70R)_Ascent_sedan_(2018-08-27)_01.jpg"
+  },
+  "toyota-land-cruiser-300": {
+    "path": "static/images/cars/toyota-land-cruiser-300.png",
+    "file": "2021_Toyota_Land_Cruiser_300_3.4_ZX_(Colombia)_front_view_04.png",
+    "page": "Toyota Land Cruiser",
+    "author": "Autosdeprimera",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Toyota_Land_Cruiser_300_3.4_ZX_(Colombia)_front_view_04.png"
+  },
+  "toyota-vellfire": {
+    "path": "static/images/cars/toyota-vellfire.jpg",
+    "file": "Toyota_Vellfire,_Johor_Bahru_(P1110137).jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Vellfire,_Johor_Bahru_(P1110137).jpg"
+  },
+  "skoda-kylaq": {
+    "path": "static/images/cars/skoda-kylaq.png",
+    "file": "2025_Skoda_Kylaq.png",
+    "page": "\u0160koda Kylaq",
+    "author": "Faisal Khan",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Skoda_Kylaq.png"
+  },
+  "skoda-kushaq": {
+    "path": "static/images/cars/skoda-kushaq.png",
+    "file": "2021_\u0160koda_Kushaq_(India)_front_view.png",
+    "page": "\u0160koda Kushaq",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_%C5%A0koda_Kushaq_(India)_front_view.png"
+  },
+  "skoda-slavia": {
+    "path": "static/images/cars/skoda-slavia.png",
+    "file": "2021_\u0160koda_Slavia_1.5_TSI_Style_(India)_front_view.png",
+    "page": "\u0160koda Slavia",
+    "author": "Athira Murali",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_%C5%A0koda_Slavia_1.5_TSI_Style_(India)_front_view.png"
+  },
+  "skoda-kodiaq": {
+    "path": "static/images/cars/skoda-kodiaq.jpg",
+    "file": "\u0160koda_Kodiaq_II_IMG_9825.jpg",
+    "page": "\u0160koda Kodiaq",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0koda_Kodiaq_II_IMG_9825.jpg"
+  },
+  "skoda-superb": {
+    "path": "static/images/cars/skoda-superb.jpg",
+    "file": "Skoda_Superb_L&K_(IV)_\u2013_f_12042026.jpg",
+    "page": "\u0160koda Superb",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Skoda_Superb_L%26K_(IV)_%E2%80%93_f_12042026.jpg"
+  },
+  "volkswagen-virtus": {
+    "path": "static/images/cars/volkswagen-virtus.png",
+    "file": "2022_Volkswagen_Virtus_1.5_GT_(India)_front_view_02.png",
+    "page": "Volkswagen Virtus",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Volkswagen_Virtus_1.5_GT_(India)_front_view_02.png"
+  },
+  "volkswagen-taigun": {
+    "path": "static/images/cars/volkswagen-taigun.jpg",
+    "file": "Volkswagen_Taigun_front_20230528.jpg",
+    "page": "Volkswagen Taigun",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_Taigun_front_20230528.jpg"
+  },
+  "volkswagen-tiguan-r-line": {
+    "path": "static/images/cars/volkswagen-tiguan-r-line.jpg",
+    "file": "Volkswagen_Tiguan_III_IMG_8823_(cropped).jpg",
+    "page": "Volkswagen Tiguan",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tiguan_III_IMG_8823_(cropped).jpg"
+  },
+  "mg-zs-ev": {
+    "path": "static/images/cars/mg-zs-ev.jpg",
+    "file": "MG_ZS_(crossover,_second_generation)_DSC_8542.jpg",
+    "page": "MG ZS (crossover)",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MG_ZS_(crossover,_second_generation)_DSC_8542.jpg"
+  },
+  "renault-kwid": {
+    "path": "static/images/cars/renault-kwid.png",
+    "file": "2023_Renault_Kwid_Iconic_(Colombia)_front_view_01.png",
+    "page": "Renault Kwid",
+    "author": "Autosdeprimera",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Renault_Kwid_Iconic_(Colombia)_front_view_01.png"
+  },
+  "mg-gloster": {
+    "path": "static/images/cars/mg-gloster.png",
+    "file": "2020_MG_Gloster_2.0_Savvy_(India)_front_view.png",
+    "page": "Wikimedia Commons search",
+    "author": "DriveSpark",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_MG_Gloster_2.0_Savvy_(India)_front_view.png"
+  },
+  "renault-triber": {
+    "path": "static/images/cars/renault-triber.jpg",
+    "file": "2021_Renault_Triber_RXZ_(Indonesia)_front_view.jpg",
+    "page": "Renault Triber",
+    "author": "Andra Febrian",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Renault_Triber_RXZ_(Indonesia)_front_view.jpg"
+  },
+  "renault-kiger": {
+    "path": "static/images/cars/renault-kiger.jpg",
+    "file": "Renault_Kiger_front_20230602.jpg",
+    "page": "Renault Kiger",
+    "author": "Dairokkan9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Renault_Kiger_front_20230602.jpg"
+  },
+  "nissan-magnite": {
+    "path": "static/images/cars/nissan-magnite.jpg",
+    "file": "Nissan_Magnite_2025_1.0_Exclusive_at_WTC_Montevideo_-_04.jpg",
+    "page": "Nissan Magnite",
+    "author": "NaBUru38",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissan_Magnite_2025_1.0_Exclusive_at_WTC_Montevideo_-_04.jpg"
+  },
+  "jeep-wrangler": {
+    "path": "static/images/cars/jeep-wrangler.jpg",
+    "file": "Jeep_Wrangler_Unlimited_(JL)_PHEV_IMG_5808.jpg",
+    "page": "Jeep Wrangler (JL)",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jeep_Wrangler_Unlimited_(JL)_PHEV_IMG_5808.jpg"
+  },
+  "byd-atto-3": {
+    "path": "static/images/cars/byd-atto-3.jpg",
+    "file": "BYD_Atto_3_1X7A6491.jpg",
+    "page": "BYD Atto 3",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BYD_Atto_3_1X7A6491.jpg"
+  },
+  "byd-seal": {
+    "path": "static/images/cars/byd-seal.jpg",
+    "file": "2022_BYD_Seal.jpg",
+    "page": "BYD Seal",
+    "author": "User3204",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg"
+  },
+  "jeep-grand-cherokee": {
+    "path": "static/images/cars/jeep-grand-cherokee.jpg",
+    "file": "2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White,_Front_Left,_01-16-2022.jpg",
+    "page": "Jeep Grand Cherokee",
+    "author": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White,_Front_Left,_01-16-2022.jpg"
+  },
+  "bmw-3-series-gran-limousine": {
+    "path": "static/images/cars/bmw-3-series-gran-limousine.jpg",
+    "file": "2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
+    "page": "BMW 3 Series (G20)",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_BMW_318d_SE_Automatic_2.0_Front.jpg"
+  },
+  "byd-sealion-7": {
+    "path": "static/images/cars/byd-sealion-7.jpg",
+    "file": "2025_BYD_Sealion_7_Performance_front.jpg",
+    "page": "BYD Sealion 7",
+    "author": "LuvsMG481",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_BYD_Sealion_7_Performance_front.jpg"
+  },
+  "bmw-5-series-lwb": {
+    "path": "static/images/cars/bmw-5-series-lwb.jpg",
+    "file": "BMW_G60_520i_1X7A2443.jpg",
+    "page": "BMW 5 Series (G60)",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BMW_G60_520i_1X7A2443.jpg"
+  },
+  "byd-emax-7": {
+    "path": "static/images/cars/byd-emax-7.jpg",
+    "file": "BYD_eMAX_7_Superior_Captain_Crystal_White.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BYD_eMAX_7_Superior_Captain_Crystal_White.jpg"
+  },
+  "bmw-x1": {
+    "path": "static/images/cars/bmw-x1.jpg",
+    "file": "2022_BMW_X1_sDrive18d_M_Sport_MHEV_Automatic_2.0.jpg",
+    "page": "BMW X1 (U11)",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_BMW_X1_sDrive18d_M_Sport_MHEV_Automatic_2.0.jpg"
+  },
+  "bmw-x5": {
+    "path": "static/images/cars/bmw-x5.jpg",
+    "file": "BMW_X5_M_(G05)_1X7A7047.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BMW_X5_M_(G05)_1X7A7047.jpg"
+  },
+  "bmw-x3": {
+    "path": "static/images/cars/bmw-x3.jpg",
+    "file": "BMW_G45_X3_M50_DSC_8805.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BMW_G45_X3_M50_DSC_8805.jpg"
+  },
+  "bmw-i4": {
+    "path": "static/images/cars/bmw-i4.jpg",
+    "file": "BMW_i4_IMG_6695.jpg",
+    "page": "BMW i4",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BMW_i4_IMG_6695.jpg"
+  },
+  "bmw-x7": {
+    "path": "static/images/cars/bmw-x7.jpg",
+    "file": "BMW_G07_1X7A1696.jpg",
+    "page": "BMW X7",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BMW_G07_1X7A1696.jpg"
+  },
+  "mercedes-benz-gla": {
+    "path": "static/images/cars/mercedes-benz-gla.jpg",
+    "file": "Mercedes-Benz_GLA_250_e_AMG_Line_(H_247)_\u2013_f_11042021_(exposure_adjusted).jpg",
+    "page": "Mercedes-Benz GLA",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLA_250_e_AMG_Line_(H_247)_%E2%80%93_f_11042021_(exposure_adjusted).jpg"
+  },
+  "mercedes-benz-e-class-lwb": {
+    "path": "static/images/cars/mercedes-benz-e-class-lwb.jpg",
+    "file": "MERCEDES-BENZ_E_CLASS_LWB_(V213)_China.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_E_CLASS_LWB_(V213)_China.jpg"
+  },
+  "mercedes-benz-gle": {
+    "path": "static/images/cars/mercedes-benz-gle.jpg",
+    "file": "Mercedes-Benz_GLE_350_d_4MATIC_AMG_Line_(V_167)_\u2013_f_18042021.jpg",
+    "page": "Mercedes-Benz GLE",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_GLE_350_d_4MATIC_AMG_Line_(V_167)_%E2%80%93_f_18042021.jpg"
+  },
+  "mercedes-benz-eqb": {
+    "path": "static/images/cars/mercedes-benz-eqb.jpg",
+    "file": "MERCEDES-EQ_EQB_China.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MERCEDES-EQ_EQB_China.jpg"
+  },
+  "mercedes-benz-gls": {
+    "path": "static/images/cars/mercedes-benz-gls.jpg",
+    "file": "Moscow_-_June_2026_-_Mercedes_Benz_GLS_500_Matte_Metallic_Emerald_Green_Wrap.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "\u042e\u0440\u0438\u0439 \u0414.\u041a.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moscow_-_June_2026_-_Mercedes_Benz_GLS_500_Matte_Metallic_Emerald_Green_Wrap.jpg"
+  },
+  "audi-q3": {
+    "path": "static/images/cars/audi-q3.jpg",
+    "file": "Audi_Q3_F3_DSC_7494.jpg",
+    "page": "Audi Q3",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_Q3_F3_DSC_7494.jpg"
+  },
+  "audi-q7": {
+    "path": "static/images/cars/audi-q7.jpg",
+    "file": "Audi_Q7_4M_FL2_3.0_V6_MHEV_quattro_Satellite_Silver_Metallic_01_(cropped).jpg",
+    "page": "Audi Q7",
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_Q7_4M_FL2_3.0_V6_MHEV_quattro_Satellite_Silver_Metallic_01_(cropped).jpg"
+  },
+  "audi-q5": {
+    "path": "static/images/cars/audi-q5.jpg",
+    "file": "Audi_Q5_2.0_TDI_quattro_S_line_(GU)_\u2013_f_13102025.jpg",
+    "page": "Audi Q5",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_Q5_2.0_TDI_quattro_S_line_(GU)_%E2%80%93_f_13102025.jpg"
+  },
+  "volvo-xc90": {
+    "path": "static/images/cars/volvo-xc90.jpg",
+    "file": "Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_(II,_2._Facelift)_\u2013_f_03102025.jpg",
+    "page": "Volvo XC90",
+    "author": "\u00a9 M 93",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_(II,_2._Facelift)_%E2%80%93_f_03102025.jpg"
+  },
+  "volvo-xc60": {
+    "path": "static/images/cars/volvo-xc60.jpg",
+    "file": "2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg",
+    "page": "Volvo XC60",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg"
+  },
+  "audi-q8-e-tron": {
+    "path": "static/images/cars/audi-q8-e-tron.jpg",
+    "file": "Audi_Q8_e-tron_Sportback_1X7A7094.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Alexander-93",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_Q8_e-tron_Sportback_1X7A7094.jpg"
+  },
+  "land-rover-defender": {
+    "path": "static/images/cars/land-rover-defender.jpg",
+    "file": "Land_Rover_Defender_110_D40_SE_L663_Pangea_Green_(1)_(cropped).jpg",
+    "page": "Land Rover Defender (L663)",
+    "author": "Damian B Oh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_D40_SE_L663_Pangea_Green_(1)_(cropped).jpg"
+  },
+  "land-rover-range-rover-evoque": {
+    "path": "static/images/cars/land-rover-range-rover-evoque.jpg",
+    "file": "2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg",
+    "page": "Range Rover Evoque",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg"
+  },
+  "force-gurkha": {
+    "path": "static/images/cars/force-gurkha.jpg",
+    "file": "Force_Gurkha_offroading_2_(cropped).jpg",
+    "page": "Force Gurkha",
+    "author": "Vish The Weekender",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Force_Gurkha_offroading_2_(cropped).jpg"
+  },
+  "land-rover-range-rover-velar": {
+    "path": "static/images/cars/land-rover-range-rover-velar.jpg",
+    "file": "2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg",
+    "page": "Range Rover Velar",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg"
+  },
+  "lexus-es-300h": {
+    "path": "static/images/cars/lexus-es-300h.jpg",
+    "file": "LEXUS_ES_300h(XZ10)_China.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LEXUS_ES_300h(XZ10)_China.jpg"
+  },
+  "isuzu-d-max-v-cross": {
+    "path": "static/images/cars/isuzu-d-max-v-cross.jpg",
+    "file": "2021_Isuzu_D-Max_V-Cross_4-Door_3.0_Ddi_Z.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Chanokchon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Isuzu_D-Max_V-Cross_4-Door_3.0_Ddi_Z.jpg"
+  },
+  "mg-comet-ev": {
+    "path": "static/images/cars/mg-comet-ev.jpg",
+    "file": "MG_Comet_EV_side_view.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Saiphani02",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MG_Comet_EV_side_view.jpg"
+  },
+  "mercedes-benz-a-class-limousine": {
+    "path": "static/images/cars/mercedes-benz-a-class-limousine.jpg",
+    "file": "Mercedes-Benz_A-Class_Limousine_and_Mercedes-Benz_C-Class_Sedan_(1).jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Bindydad123",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_A-Class_Limousine_and_Mercedes-Benz_C-Class_Sedan_(1).jpg"
+  },
+  "mercedes-benz-c-class": {
+    "path": "static/images/cars/mercedes-benz-c-class.jpg",
+    "file": "Mercedes-Benz_C-Class_All-Terrain_IAA_2021_1X7A0279.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_C-Class_All-Terrain_IAA_2021_1X7A0279.jpg"
+  },
+  "audi-a6": {
+    "path": "static/images/cars/audi-a6.jpg",
+    "file": "Audi_A6_Allroad_Quattro_C8_1X7A0302.jpg",
+    "page": "Wikimedia Commons search",
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Audi_A6_Allroad_Quattro_C8_1X7A0302.jpg"
+  }
+}
